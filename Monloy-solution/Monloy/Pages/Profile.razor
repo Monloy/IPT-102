@@ -1,0 +1,52 @@
+﻿@page "/Profile"
+
+<h3></h3>
+
+<div class="profile">
+    <img src="https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/461682272_1948007995705216_8685211890698576267_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGyx21rNkSYhgbSXGt4Volox_WA-n1cho7H9YD6fVyGjsf2KOccNRNkScNBnimXF8n_1udR7bwA9RcXkPsVVJIx&_nc_ohc=GKX6Ten5QW4Q7kNvgFN8GEl&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&_nc_gid=AsRNYEXGA0dOfm5Fas4wVgv&oh=00_AYD_JFXF2xJNEJFsULSBW_eXtq7KusFQulxac8UlVznvqg&oe=672649DC"
+         alt="Profile Picture"
+         class="profile-picture" />
+    <h4>@Name</h4>
+    <p><strong>Occupation:</strong> @Occupation</p>
+    <p><strong>Location:</strong> @Location</p>
+    <p><strong>Interests:</strong> @string.Join(", ", Interests)</p>
+    <q><strong>About Me:</strong> @AboutMe</q>
+</div>
+
+@code {
+    private string Name = "DINDO O MONLOY";
+    private string Occupation = "Student";
+    private string Location = "Philippines";
+    private List<string> Interests = new List<string> { "Motor show", "Spider fight", "Drag Race", "Mobile Legends", "Gym" };
+    private string AboutMe = "I am passionate about coding, especially in C#. I enjoy learning new technologies and working on challenging projects.";
+}
+<style>
+    .profile {
+        text-align: center;
+        max-width: 300px;
+        margin: 0 auto;
+        color: #fcfcfc;
+ 
+    }
+
+    .profile-picture {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+    }
+
+    h4 {
+        margin-top: 10px;
+        font-size: 1.5rem;
+    }
+
+    p {
+        margin: 5px 0;
+        font-size: 1rem;
+    }
+
+    q {
+        margin: 10px 0;
+        font-size: 1rem;
+    }
+</style>

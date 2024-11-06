@@ -1,0 +1,125 @@
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.staticwebassets.runtime.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.exe
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.deps.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.runtimeconfig.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.dll
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.pdb
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfoInputs.cache
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.Monloy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.build.Monloy.props
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monloy.props
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monloy.props
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\bundle\Monloy.styles.css
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\projectbundle\Monloy.bundle.scp.css
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.dll
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\refint\Monloy.dll
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.pdb
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.genruntimeconfig.cache
+C:\Users\Personal Computer\source\repos\Monloy-solution\Monloy\obj\Debug\net6.0\ref\Monloy.dll
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.Development.json
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.json
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.staticwebassets.runtime.json
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.exe
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.deps.json
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.runtimeconfig.json
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.dll
+D:\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.pdb
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfoInputs.cache
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfo.cs
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.csproj.CoreCompileInputs.cache
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.MvcApplicationPartsAssemblyInfo.cache
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cache
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cs
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.Monloy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.build.Monloy.props
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monloy.props
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monloy.props
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\bundle\Monloy.styles.css
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\projectbundle\Monloy.bundle.scp.css
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.dll
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\refint\Monloy.dll
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.pdb
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.genruntimeconfig.cache
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\ref\Monloy.dll
+D:\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.exe
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.deps.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.runtimeconfig.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.dll
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.pdb
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.Monloy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.build.Monloy.props
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monloy.props
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monloy.props
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\bundle\Monloy.styles.css
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\projectbundle\Monloy.bundle.scp.css
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.dll
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\refint\Monloy.dll
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.pdb
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\ref\Monloy.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.exe
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.deps.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.runtimeconfig.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\bin\Debug\net6.0\Monloy.pdb
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.Monloy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.build.Monloy.props
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monloy.props
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monloy.props
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\bundle\Monloy.styles.css
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\scopedcss\projectbundle\Monloy.bundle.scp.css
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\refint\Monloy.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.pdb
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\Monloy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\Monloy\obj\Debug\net6.0\ref\Monloy.dll

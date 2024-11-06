@@ -1,0 +1,40 @@
+﻿@page "/counter"
+
+<PageTitle>Payment Counter</PageTitle>
+
+<h1>Payment Counter</h1>
+
+<div class="counter-container">
+    <p class="current-balance" role="status">Total Amount Paid: <strong>@totalAmountPaid</strong></p>
+    <input type="number" @bind="paymentAmount" placeholder="Enter payment amount" class="payment-input" />
+    <button class="btn btn-primary" @onclick="AddPayment">Add Payment</button>
+</div>
+
+@code {
+    private decimal totalAmountPaid = 0;
+    private decimal paymentAmount = 0;
+
+    private void AddPayment()
+    {
+        totalAmountPaid += paymentAmount;
+        paymentAmount = 0; 
+    }
+}
+
+<style>
+    .counter-container {
+        text-align: center;
+        margin: 20px;
+    }
+
+    .current-balance {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+
+    .payment-input {
+        font-size: 1rem;
+        padding: 8px;
+        margin-bottom: 10px;
+    }
+</style>
