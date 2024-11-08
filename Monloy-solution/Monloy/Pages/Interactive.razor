@@ -1,0 +1,103 @@
+﻿@page "/Interactive"
+@using MotorPartsLibrary
+
+<h3>Events</h3>
+
+<h3>Buy MotorParts Online</h3>
+
+<div class="container">
+    <EditForm Model="motorPart" OnValidSubmit="SaveMotorPart">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="MotorPartName">MotorPart Name:</label>
+            <InputText id="MotorPartName" @bind-Value="motorPart.Name" class="form-control" />
+            <ValidationMessage For="@(() => motorPart.Name)" />
+        </div>
+
+        <div class="form-group">
+            <label for="MotorPartColor">MotorPart Color:</label>
+            <InputText id="MotorPartColor" @bind-Value="motorPart.Color" class="form-control" />
+            <ValidationMessage For="@(() => motorPart.Color)" />
+        </div>
+
+        <div class="form-group">
+            <label for="MotorPartPrice">Price:</label>
+            <InputNumber id="MotorPartPrice" @bind-Value="motorPart.Price" class="form-control" />
+            <ValidationMessage For="@(() => motorPart.Price)" />
+        </div>
+
+        <div class="form-group">
+            <label for="MotorPartQuantity">Quantity:</label>
+            <InputNumber id="MotorPartQuantity" @bind-Value="motorPart.Quantity" class="form-control" />
+            <ValidationMessage For="@(() => motorPart.Quantity)" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">@((motorPart.Id == 0) ? "Add MotorPart" : "Update MotorPart")</button>
+    </EditForm>
+
+    <hr />
+
+    <h4>MotorParts List</h4>
+    <ul class="list-group">
+        @if (motorParts.Count > 0)
+        {
+            foreach (var part in motorParts)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <span>@part.Name (@part.Color) - $@part.Price (Quantity: @part.Quantity)</span>
+                    <div>
+                        <button @onclick="() => EditMotorPart(part)" class="btn btn-warning btn-sm">Update</button>
+                        <button @onclick="() => DeleteMotorPart(part)" class="btn btn-danger btn-sm">Delete</button>
+                    </div>
+                </li>
+            }
+        }
+        else
+        {
+            <li class="list-group-item">No motor parts added yet.</li>
+        }
+    </ul>
+</div>
+
+@code {
+    private MotorPart motorPart = new MotorPart();
+    private List<MotorPart> motorParts = new List<MotorPart>();
+    private MotorPartsService motorPartsService = new MotorPartsService();
+
+    protected override void OnInitialized()
+    {
+        motorParts = motorPartsService.GetMotorParts();
+    }
+
+    private void SaveMotorPart()
+    {
+        motorPartsService.SaveMotorPart(motorPart);
+        motorParts = motorPartsService.GetMotorParts();
+        ClearFields();
+    }
+
+    private void EditMotorPart(MotorPart partToEdit)
+    {
+        motorPart = new MotorPart
+            {
+                Id = partToEdit.Id,
+                Name = partToEdit.Name,
+                Color = partToEdit.Color,
+                Price = partToEdit.Price,
+                Quantity = partToEdit.Quantity
+            };
+    }
+
+    private void DeleteMotorPart(MotorPart partToDelete)
+    {
+        motorPartsService.DeleteMotorPart(partToDelete.Id);
+        motorParts = motorPartsService.GetMotorParts();
+    }
+
+    private void ClearFields()
+    {
+        motorPart = new MotorPart();
+    }
+}

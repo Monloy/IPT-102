@@ -2,15 +2,22 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color: #c65b5b
+    background-color: #c65b5b;
+    background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/2024-04-15t034527z-974414072-mt1usatoday23028678-rtrmadp-3-motorcycle-racing-motogp-red-bull-grand-prix-of-the-americas.JPG?c=original');
+    background-size: cover;
+    background-position: center;
+    color: white; 
 }
 
 main {
     flex: 1;
+    color: white;
 }
 
 .sidebar {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    color: white; 
+    background-color:black; 
 }
 
 .top-row {
@@ -20,16 +27,22 @@ main {
     height: 3.5rem;
     display: flex;
     align-items: center;
+    color: white; /* Ensure all text within .top-row is white */
+   
 }
 
     .top-row ::deep a, .top-row .btn-link {
         white-space: nowrap;
         margin-left: 1.5rem;
+        color: white; /* Ensure all text within links is white */
+        background-color: black; /* Ensure background of all text is cyan */
     }
 
     .top-row a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
+        color: white; 
+        background-color: black; 
     }
 
 @media (max-width: 640.98px) {
@@ -43,6 +56,8 @@ main {
 
     .top-row a, .top-row .btn-link {
         margin-left: 0;
+        color: white;
+        background-color: black;
     }
 }
 
@@ -62,10 +77,14 @@ main {
         position: sticky;
         top: 0;
         z-index: 1;
+        color: white; 
+        background-color: black; 
     }
 
     .top-row, article {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
+        color: white; 
+        background-color: black; 
     }
 }

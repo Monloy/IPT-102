@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h5VjsnkNibZcfCzp17hRrO1JyRmNFYlJ54o3WaZS3U0=",
+  "Hash": "OuSNb3DDizH230MXHG3Cajj0p+LEy1h0siqWVBTmzyQ=",
   "Source": "Monloy",
   "BasePath": "_content/Monloy",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Monloy\\wwwroot",
       "Source": "Monloy",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Monloy.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Monloy.styles.css",
       "SourceId": "Monloy",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "Monloy.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Monloy.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Monloy.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Monloy.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Monloy.bundle.scp.css",
       "SourceId": "Monloy",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "Monloy.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Monloy.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Monloy.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\css\\site.css",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\favicon.ico",
       "SourceId": "Monloy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\wwwroot\\",
       "BasePath": "_content/Monloy",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

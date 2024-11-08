@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Monloy.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\Monloy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Monloy.csproj": {
+    "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\Monloy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Monloy.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\Monloy.csproj",
         "projectName": "Monloy",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Monloy.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\Monloy.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\MonloySolution\\Monloy-solution\\Monloy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,12 +30,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/IPT-102/Monloy-solution/Monloy/Pages/Event.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/IPT-102/Monloy-solution/Monloy/Pages/Events.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/IPT-102/Monloy-solution/Monloy/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/IPT-102/Monloy-solution/Monloy/Pages/Interactive.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50ZXJhY3RpdmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/IPT-102/Monloy-solution/Monloy/Pages/Musics.razor]
