@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\musics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\musics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\data\\motorpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\data\\motorpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\data\\motorpartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\data\\motorpartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,28 +54,12 @@
       "AbsoluteMoniker": "D:0:0:{C1AFA0B3-83AF-48EF-95A8-A0405D95C7F3}|..\\MonloyCompany\\MonloyCompany.sqlproj|C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\data\\motorpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\data\\motorpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\musics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|solutionrelative:monloy\\pages\\musics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}|Monloy\\Monloy.csproj|c:\\users\\admin\\desktop\\ipt-102\\monloy-solution\\monloy\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -92,9 +96,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\MonloyCompany\\Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MonloyCompany\\Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AFA0B3-83AF-48EF-95A8-A0405D95C7F3}|..\\MonloyCompany\\MonloyCompany.sqlproj|C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,70 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Monloy\\Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Monloy\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:35:10.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Monloy\\Shared\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor.css",
-              "RelativeToolTip": "Monloy\\Shared\\MainLayout.razor.css",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-11T17:21:42.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Interactive.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Interactive.razor",
               "RelativeDocumentMoniker": "Monloy\\Pages\\Interactive.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Interactive.razor",
-              "RelativeToolTip": "Monloy\\Pages\\Interactive.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Interactive.razor*",
+              "RelativeToolTip": "Monloy\\Pages\\Interactive.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-30T01:36:01.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PROJECT.sql ",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql",
-              "RelativeDocumentMoniker": "..\\MonloyCompany\\Script\\PROJECT.sql",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql",
-              "RelativeToolTip": "..\\MonloyCompany\\Script\\PROJECT.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-08T00:56:57.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Monloy\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Index.razor",
-              "RelativeToolTip": "Monloy\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T17:22:32.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Event.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Event.razor",
               "RelativeDocumentMoniker": "Monloy\\Pages\\Event.razor",
@@ -188,41 +139,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Monloy\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "Monloy\\Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Monloy\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\NavMenu.razor*",
+              "RelativeToolTip": "Monloy\\Shared\\NavMenu.razor*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:43:43.65Z",
+              "WhenOpened": "2024-09-11T16:35:10.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Program.cs",
-              "RelativeDocumentMoniker": "Monloy\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Program.cs",
-              "RelativeToolTip": "Monloy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:22:20.881Z",
+              "DocumentIndex": 12,
+              "Title": "PROJECT.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql",
+              "RelativeDocumentMoniker": "..\\MonloyCompany\\Script\\PROJECT.sql",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\MonloyCompany\\Script\\PROJECT.sql",
+              "RelativeToolTip": "..\\MonloyCompany\\Script\\PROJECT.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T00:56:57.925Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Monloy\\Pages\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\_Layout.cshtml",
-              "RelativeToolTip": "Monloy\\Pages\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T18:05:27.18Z"
             },
             {
               "$type": "Document",
@@ -239,7 +177,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Monloy\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Monloy\\Shared\\MainLayout.razor.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T17:21:42.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Musics.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Musics.razor",
               "RelativeDocumentMoniker": "Monloy\\Pages\\Musics.razor",
@@ -247,11 +197,112 @@
               "RelativeToolTip": "Monloy\\Pages\\Musics.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:34:23.942Z"
+              "WhenOpened": "2024-09-11T16:34:23.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Monloy\\Pages\\Profile.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Profile.razor",
+              "RelativeToolTip": "Monloy\\Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:34:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Videos.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Videos.razor",
+              "RelativeDocumentMoniker": "Monloy\\Pages\\Videos.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Videos.razor",
+              "RelativeToolTip": "Monloy\\Pages\\Videos.razor",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:34:09.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Monloy\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Index.razor",
+              "RelativeToolTip": "Monloy\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T17:22:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotorPartsService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPartsService.cs",
+              "RelativeDocumentMoniker": "Monloy\\Data\\MotorPartsService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPartsService.cs",
+              "RelativeToolTip": "Monloy\\Data\\MotorPartsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:46:16.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Monloy\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Monloy\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:43:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotorPart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPart.cs",
+              "RelativeDocumentMoniker": "Monloy\\Data\\MotorPart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPart.cs",
+              "RelativeToolTip": "Monloy\\Data\\MotorPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:17:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Program.cs",
+              "RelativeDocumentMoniker": "Monloy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Program.cs",
+              "RelativeToolTip": "Monloy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:22:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Monloy\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Monloy\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:05:27.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Monloy\\Pages\\Error.cshtml",
@@ -263,43 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MotorPart.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPart.cs",
-              "RelativeDocumentMoniker": "Monloy\\Data\\MotorPart.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\MotorPart.cs",
-              "RelativeToolTip": "Monloy\\Data\\MotorPart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:17:10.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Profile.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Profile.razor",
-              "RelativeDocumentMoniker": "Monloy\\Pages\\Profile.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Profile.razor",
-              "RelativeToolTip": "Monloy\\Pages\\Profile.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:34:48.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Videos.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Videos.razor",
-              "RelativeDocumentMoniker": "Monloy\\Pages\\Videos.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\Videos.razor",
-              "RelativeToolTip": "Monloy\\Pages\\Videos.razor",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:34:09.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "EMPLOYEE.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\MonloyCompany\\Script\\EMPLOYEE.sql",
               "RelativeDocumentMoniker": "MonloyCompany\\Script\\EMPLOYEE.sql",
@@ -310,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DEPT_LOCATION.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\MonloyCompany\\Script\\DEPT_LOCATION.sql",
               "RelativeDocumentMoniker": "MonloyCompany\\Script\\DEPT_LOCATION.sql",
@@ -321,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "Monloy\\Pages\\_Host.cshtml",
@@ -333,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CalculatorLibrary.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Data\\CalculatorLibrary.cs",
               "RelativeDocumentMoniker": "Monloy\\Data\\CalculatorLibrary.cs",
@@ -345,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DEPENDENT.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\MonloyCompany\\Script\\DEPENDENT.sql",
               "RelativeDocumentMoniker": "MonloyCompany\\Script\\DEPENDENT.sql",
@@ -356,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DEPARTMENT.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\MonloyCompany\\Script\\DEPARTMENT.sql",
               "RelativeDocumentMoniker": "MonloyCompany\\Script\\DEPARTMENT.sql",
@@ -367,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SurveyPrompt.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\Shared\\SurveyPrompt.razor",
               "RelativeDocumentMoniker": "Monloy\\Shared\\SurveyPrompt.razor",
@@ -379,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IPT-102\\Monloy-solution\\Monloy\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Monloy\\wwwroot\\css\\site.css",

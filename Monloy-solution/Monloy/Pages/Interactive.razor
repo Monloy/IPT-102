@@ -92,7 +92,7 @@
 
     private void DeleteMotorPart(MotorPart partToDelete)
     {
-        motorPartsService.DeleteMotorPart(partToDelete.Id);
+        motorPartsService.DeleteMotorPart(partToDelete.Id); 
         motorParts = motorPartsService.GetMotorParts();
     }
 
