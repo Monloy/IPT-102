@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monloy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bb727017cb69d801e0b601423b17c90097196b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8135f84f387950dd3bfc19b0d17a71b83407eedf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monloy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monloy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

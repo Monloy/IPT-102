@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.dacpac
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.dll
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.pdb
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.sqlproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.dll
+C:\Users\ASUS\source\repos\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.pdb
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.dacpac
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\bin\Debug\MonloyCompany.pdb
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.dll
+C:\Users\Admin\Desktop\MonloySolution\Monloy-solution\MonloyCompany\obj\Debug\MonloyCompany.pdb

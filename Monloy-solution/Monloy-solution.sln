@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monloy", "Monloy\Monloy.csproj", "{ACDF2762-A4DC-4A3C-9402-586CFFCC6BCD}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MonloyCompany", "MonloyCompany\MonloyCompany.sqlproj", "{C1AFA0B3-83AF-48EF-95A8-A0405D95C7F3}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MonloyCompany", "..\MonloyCompany\MonloyCompany.sqlproj", "{C1AFA0B3-83AF-48EF-95A8-A0405D95C7F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
